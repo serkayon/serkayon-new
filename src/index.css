@@ -414,3 +414,19 @@ opacity:0;
 }
 
 }
+
+.case-btn{
+display:inline-block;
+margin-top:16px;
+padding:10px 22px;
+border-radius:25px;
+
+color:white;
+font-size:14px;
+text-decoration:none;
+transition:0.3s;
+}
+
+.case-btn:hover{
+background:#333;
+}
